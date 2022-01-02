@@ -1,0 +1,15 @@
+C:\Users\hugor\Desktop\Prog\2021 random\c#\StoreBasicSystem\StoreBasicSystem\bin\Debug\net6.0\StoreBasicSystem.exe
+C:\Users\hugor\Desktop\Prog\2021 random\c#\StoreBasicSystem\StoreBasicSystem\bin\Debug\net6.0\StoreBasicSystem.deps.json
+C:\Users\hugor\Desktop\Prog\2021 random\c#\StoreBasicSystem\StoreBasicSystem\bin\Debug\net6.0\StoreBasicSystem.runtimeconfig.json
+C:\Users\hugor\Desktop\Prog\2021 random\c#\StoreBasicSystem\StoreBasicSystem\bin\Debug\net6.0\StoreBasicSystem.dll
+C:\Users\hugor\Desktop\Prog\2021 random\c#\StoreBasicSystem\StoreBasicSystem\bin\Debug\net6.0\ref\StoreBasicSystem.dll
+C:\Users\hugor\Desktop\Prog\2021 random\c#\StoreBasicSystem\StoreBasicSystem\bin\Debug\net6.0\StoreBasicSystem.pdb
+C:\Users\hugor\Desktop\Prog\2021 random\c#\StoreBasicSystem\StoreBasicSystem\obj\Debug\net6.0\StoreBasicSystem.csproj.AssemblyReference.cache
+C:\Users\hugor\Desktop\Prog\2021 random\c#\StoreBasicSystem\StoreBasicSystem\obj\Debug\net6.0\StoreBasicSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugor\Desktop\Prog\2021 random\c#\StoreBasicSystem\StoreBasicSystem\obj\Debug\net6.0\StoreBasicSystem.AssemblyInfoInputs.cache
+C:\Users\hugor\Desktop\Prog\2021 random\c#\StoreBasicSystem\StoreBasicSystem\obj\Debug\net6.0\StoreBasicSystem.AssemblyInfo.cs
+C:\Users\hugor\Desktop\Prog\2021 random\c#\StoreBasicSystem\StoreBasicSystem\obj\Debug\net6.0\StoreBasicSystem.csproj.CoreCompileInputs.cache
+C:\Users\hugor\Desktop\Prog\2021 random\c#\StoreBasicSystem\StoreBasicSystem\obj\Debug\net6.0\StoreBasicSystem.dll
+C:\Users\hugor\Desktop\Prog\2021 random\c#\StoreBasicSystem\StoreBasicSystem\obj\Debug\net6.0\ref\StoreBasicSystem.dll
+C:\Users\hugor\Desktop\Prog\2021 random\c#\StoreBasicSystem\StoreBasicSystem\obj\Debug\net6.0\StoreBasicSystem.pdb
+C:\Users\hugor\Desktop\Prog\2021 random\c#\StoreBasicSystem\StoreBasicSystem\obj\Debug\net6.0\StoreBasicSystem.genruntimeconfig.cache

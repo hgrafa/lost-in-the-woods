@@ -1,0 +1,15 @@
+C:\Users\hugor\Desktop\Prog\2021 random\c#\POO1\POO1\bin\Debug\net6.0\POO1.exe
+C:\Users\hugor\Desktop\Prog\2021 random\c#\POO1\POO1\bin\Debug\net6.0\POO1.deps.json
+C:\Users\hugor\Desktop\Prog\2021 random\c#\POO1\POO1\bin\Debug\net6.0\POO1.runtimeconfig.json
+C:\Users\hugor\Desktop\Prog\2021 random\c#\POO1\POO1\bin\Debug\net6.0\POO1.dll
+C:\Users\hugor\Desktop\Prog\2021 random\c#\POO1\POO1\bin\Debug\net6.0\ref\POO1.dll
+C:\Users\hugor\Desktop\Prog\2021 random\c#\POO1\POO1\bin\Debug\net6.0\POO1.pdb
+C:\Users\hugor\Desktop\Prog\2021 random\c#\POO1\POO1\obj\Debug\net6.0\POO1.csproj.AssemblyReference.cache
+C:\Users\hugor\Desktop\Prog\2021 random\c#\POO1\POO1\obj\Debug\net6.0\POO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugor\Desktop\Prog\2021 random\c#\POO1\POO1\obj\Debug\net6.0\POO1.AssemblyInfoInputs.cache
+C:\Users\hugor\Desktop\Prog\2021 random\c#\POO1\POO1\obj\Debug\net6.0\POO1.AssemblyInfo.cs
+C:\Users\hugor\Desktop\Prog\2021 random\c#\POO1\POO1\obj\Debug\net6.0\POO1.csproj.CoreCompileInputs.cache
+C:\Users\hugor\Desktop\Prog\2021 random\c#\POO1\POO1\obj\Debug\net6.0\POO1.dll
+C:\Users\hugor\Desktop\Prog\2021 random\c#\POO1\POO1\obj\Debug\net6.0\ref\POO1.dll
+C:\Users\hugor\Desktop\Prog\2021 random\c#\POO1\POO1\obj\Debug\net6.0\POO1.pdb
+C:\Users\hugor\Desktop\Prog\2021 random\c#\POO1\POO1\obj\Debug\net6.0\POO1.genruntimeconfig.cache
