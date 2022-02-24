@@ -97,7 +97,7 @@ Precisamos também implementar a `CompareTo` além de escrever o método para co
 Caso não quisessemos ter problemas com superclasses que implementem o `CompareTo`, que são herdados pela classe aplicada ao `generics`, teríamos que fazer da seguinte forma:
 
 ```java
-	public static <T extends Comparable<? super T>> T max(List<T> list) {
+public static <T extends Comparable<? super T>> T max(List<T> list) {
 
-	}	
+}	
 ```
